@@ -1,7 +1,7 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
+# Reg No:2122250402222
+# Name:MAHALAKSHMI M
 # Date:
 
 
@@ -40,10 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
+<img width="1110" height="948" alt="WhatsApp Image 2026-10-23 at 7 46 47 PM" src="https://github.com/user-attachments/assets/ecd909ac-163a-4cc6-b37f-ef073c144f02" />
 
 
 # CLASS DIAGRAM
@@ -60,6 +57,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1575" height="998" alt="UML Healthcare Class Diagram" src="https://github.com/user-attachments/assets/cfb0d4a2-9b43-4522-b546-8a474273a431" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -69,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="932" height="777" alt="Screenshot 2026-11-03 103751" src="https://github.com/user-attachments/assets/c6b6ad83-fbdf-4c87-84f5-5fee62c36cef" />
 
 
 # PACKAGE DIAGRAM:
@@ -78,11 +77,6 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
-
-
-
-
-
 
 
 
@@ -120,8 +114,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
+<img width="737" height="571" alt="WhatsApp Image 2026-11-03 at 10 00 02 AM" src="https://github.com/user-attachments/assets/66efb7a2-441b-43e3-8679-5d70a7907aa1" />
 
 
 # RESULT
