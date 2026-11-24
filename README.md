@@ -2,7 +2,7 @@
 
 # Reg No:2122250402222
 # Name:MAHALAKSHMI M
-# Date:
+# Date:24/11/2026
 
 
 # AIM:
@@ -78,6 +78,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="760" height="351" alt="WhatsApp Image 2026-11-24 at 2 38 22 PM" src="https://github.com/user-attachments/assets/8442b6b3-bef9-4e3c-b1e6-b5cceb0c60db" />
 
 
 # ACTIVITY DIAGRAM:
@@ -93,6 +94,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="685" height="634" alt="WhatsApp Image 2026-11-24 at 2 38 35 PM" src="https://github.com/user-attachments/assets/ed4e985f-1a01-476c-916a-5d76b5b01cd0" />
 
 
 
